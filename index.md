@@ -1,7 +1,5 @@
-# HAOFENG HUANG
-# 黄浩峰
-
-
+# **HAOFENG HUANG**
+# **<font color=#00c3ff>黄浩峰</font>**
 
 
 ## Welcome to GitHub Pages
