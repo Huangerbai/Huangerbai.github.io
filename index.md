@@ -1,8 +1,12 @@
 # **HAOFENG HUANG**
-# **<font color=#00c3ff>黄浩峰</font>**
+# <font color=#00c3ff>**黄浩峰**</font>
+<br/><br/>
+Hi, I'm Haofeng Huang(黄浩峰), a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University and I'm also a member of the STRUCT group, ICST, guided by Professor Jiaying Liu.
+Currently my research interest lies in Computer Vsion, especially Low-Light picture/video enhancement.
+<br/><br/>
+--------------------------
 
-
-## Welcome to GitHub Pages
+## ABOUT M
 
 You can use the [editor on GitHub](https://github.com/Huangerbai/Huangerbai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
