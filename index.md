@@ -6,8 +6,7 @@
 <font face="courier">Hi, I'm Haofeng Huang(黄浩峰), a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University.<br/>
 I'm also a member of the STRUCT group, WICT, guided by Professor Jiaying Liu.
 Currently my research interest lies in Computer Vision, especially Low-Light picture/video enhancement.</font>
-[STRUCT](http://39.96.165.147/struct.html)
-[WICT](http://www.wict.pku.edu.cn/)
+[STRUCT](http://39.96.165.147/struct.html) and [WICT](http://www.wict.pku.edu.cn/) for more information.
 
 --------------------------
 
