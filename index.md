@@ -1,5 +1,5 @@
-# **HAOFENG HUANG**
-# **黄浩峰**
+# **HAOFENG  HUANG**
+# **    黄浩峰    **
 <br/><br/>
 
 ## ABOUT ME
@@ -10,7 +10,9 @@ Currently my research interest lies in Computer Vsion, especially Low-Light pict
 
 ## CONTACT ME
 
-EMAIL:huang6013@pku.edu.cn
+<font face="courier">EMAIL:    huang6013@pku.edu.cn</font>
+
+--------------------------
 
 ### Markdown
 
