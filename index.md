@@ -3,8 +3,8 @@
 <br/><br/>
 
 
-Hi, I'm Haofeng Huang(黄浩峰), a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University and I'm also a member of the STRUCT group, ICST, guided by Professor Jiaying Liu.
-Currently my research interest lies in Computer Vsion, especially Low-Light picture/video enhancement.
+<font face="黑体">Hi, I'm Haofeng Huang(黄浩峰), a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University and I'm also a member of the STRUCT group, ICST, guided by Professor Jiaying Liu.
+Currently my research interest lies in Computer Vsion, especially Low-Light picture/video enhancement.</font>
 
 --------------------------
 
