@@ -23,7 +23,6 @@ Currently my research interest lies in Computer Vision, especially Low-Light ima
 <font face="courier">TIP 2022: [Towards Low Light Enhancement With RAW Images](https://ieeexplore.ieee.org/document/9684237)</font>
 
 <font face="courier">ACCV 2020 **Oral**: [Raw-Guided Enhancing Reprocess of Low-Light Image via Deep Exposure Adjustment](https://openaccess.thecvf.com/content/ACCV2020/html/Huang_Raw-Guided_Enhancing_Reprocess_of_Low-Light_Image_via_Deep_Exposure_Adjustment_ACCV_2020_paper.html)</font>
-<>
 
 --------------------------
 
