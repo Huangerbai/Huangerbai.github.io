@@ -4,7 +4,7 @@
 
 ## ABOUT ME
 <font face="courier">I am Haofeng Huang, a first-year graduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University.<br/>
-I'm currently pursuing a Ph.D. degree with <a href="http://39.96.165.147/people/liujiaying.html">Prof. Jiaying Liu</a> and <a href="https://eecs.pku.edu.cn/info/1339/6082.htm">Prof. Ling-Yu Duan</a> at the STRUCT group, WICT, PKU.
+I'm currently pursuing a Ph.D. degree with <a href="https://www.icst.pku.edu.cn/struct/people/liujiaying.html">Prof. Jiaying Liu</a> and <a href="https://eecs.pku.edu.cn/info/1339/6082.htm">Prof. Ling-Yu Duan</a> at the STRUCT group, WICT, PKU.
 Currently my research interest lies in Computer Vision, especially Low-Light image/video enhancement and image/video compression for human and machine vision.</font>
 [STRUCT](http://39.96.165.147/struct.html) and [WICT](http://www.wict.pku.edu.cn/) for more information.
 
