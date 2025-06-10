@@ -3,7 +3,7 @@
 <br/><br/>
 
 ## ABOUT ME
-<font face="courier">I am Haofeng Huang, a Ph.D. student majoring computer science at School of Electronic Engineering and Computer Science in Peking University (Expected to graduate in **Jul. 2026**).<br/>
+<font face="courier">I am Haofeng Huang, a Ph.D. student majoring computer science at School of Electronic Engineering and Computer Science in Peking University (Expected to graduate in Jul. 2026).<br/>
 I'm supervised by <a href="https://www.icst.pku.edu.cn/struct/people/liujiaying.html">Prof. Jiaying Liu</a> and <a href="https://eecs.pku.edu.cn/info/1339/6082.htm">Prof. Ling-Yu Duan</a> at the STRUCT group, WICT, PKU.
 Currently my research interest lies in Computer Vision, especially Generative AI for image/video editting and enhancement, image/video compression for human and machine vision.</font>
 [STRUCT](http://39.96.165.147/struct.html) and [WICT](http://www.wict.pku.edu.cn/) for more information.
